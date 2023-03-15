@@ -21,7 +21,7 @@ directory as the target file.
 2. install `stubdoc`
 
     ```sh
-    pip install git+...
+    pip install git+https://github.com/bayashi-cl/stubdoc
     ```
 
 3. Edit `conf.py`

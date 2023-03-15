@@ -14,5 +14,5 @@ setup(
     license="MIT",
     python_requires=">= 3.8",
     install_requires=["sphinx"],
-    packages=["stubdoc"],
+    py_modules=["stubdoc"],
 )
